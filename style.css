@@ -1,0 +1,22 @@
+    *{
+    font-family: 'Times new roman';
+    }
+
+    h2{
+    color: white;
+    }
+
+    .img-responsive{
+    width: 1000px;
+    height: auto;
+    background-image: url("img/foto nadyanada.jpeg");
+    background-size: cover;
+    }
+
+    .container h1 {
+    position: absolute;
+    top: 115%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    margin-left: 2px;
+    }
